@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;spring-mvc-demo&apos; to &apos;spring-mvc-demooo&apos;" description="Rename resource &apos;spring-mvc-demo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spring-mvc-demo" name="spring-mvc-demooo" stamp="1562525825687" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;spring-mvc-demooo&apos; to &apos;spring-mvc-demo&apos;" description="Rename resource &apos;spring-mvc-demooo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spring-mvc-demooo" name="spring-mvc-demo" stamp="1562525863162" updateReferences="true"/>
-</session>

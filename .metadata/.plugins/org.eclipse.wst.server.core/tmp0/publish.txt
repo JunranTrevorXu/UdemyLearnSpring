@@ -1,4 +1,0 @@
-#Tomcat publish data
-#Sun Jul 07 19:20:34 EDT 2019
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\trevo\\UdemyJavaSpring\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.1.8.RELEASE.jar=WEB-INF/lib/spring-web-5.1.8.RELEASE.jar
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\trevo\\UdemyJavaSpring\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.1.8.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.8.RELEASE-sources.jar
