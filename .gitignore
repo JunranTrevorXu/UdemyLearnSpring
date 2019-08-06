@@ -1,0 +1,5 @@
+.*
+!.gitignore
+Servers
+spring-mvc-demo/build
+spring-mvc-demo/WebContent/META-INF
